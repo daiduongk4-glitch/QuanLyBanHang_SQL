@@ -5,7 +5,7 @@ Báo cáo bài tập lớn môn Cơ sở dữ liệu (Mã HP: N03.BT1) - Trườ
 
 ---
 
-## 👥 Thành viên nhóm (Nhóm 4 - Lớp KT ĐTVT 1 K63)
+## Thành viên nhóm (Nhóm 4 - Lớp KT ĐTVT 1 K63)
 | STT | Họ và Tên | Vai trò |
 |---|---|---|
 | 1 | **Đào Minh Đức** | Trưởng nhóm |
@@ -16,17 +16,17 @@ Báo cáo bài tập lớn môn Cơ sở dữ liệu (Mã HP: N03.BT1) - Trườ
 
 ---
 
-## 📌 Giới thiệu đề tài
+## Giới thiệu đề tài
 Hệ thống quản lý bán hàng nhằm giúp cửa hàng kiểm soát quy trình từ quản lý sản phẩm, nhân viên, khách hàng đến việc thực hiện các hóa đơn bán hàng và báo cáo doanh thu.
 
-### 🛠 Công nghệ sử dụng
+### Công nghệ sử dụng
 - **Hệ quản trị CSDL:** SQL Server.
 - **Công cụ:** SQL Server Management Studio (SSMS).
 - **Ngôn ngữ:** T-SQL.
 
 ---
 
-## 📊 Cấu trúc Cơ sở dữ liệu (Database Schema)
+## Cấu trúc Cơ sở dữ liệu (Database Schema)
 
 Hệ thống bao gồm các bảng chính sau:
 - `KHACHHANG`: Lưu trữ thông tin khách hàng (Mã KH, họ tên, địa chỉ, doanh số...).
@@ -37,7 +37,7 @@ Hệ thống bao gồm các bảng chính sau:
 
 ---
 
-## 🚀 Các chức năng chính (Câu lệnh SQL)
+## Các chức năng chính (Câu lệnh SQL)
 Dự án bao gồm đầy đủ các câu lệnh từ cơ bản đến nâng cao:
 1. **Dữ liệu:** Tạo bảng, ràng buộc (Primary Key, Foreign Key), nhập dữ liệu mẫu.
 2. **Truy vấn (Select):** Thống kê sản phẩm, liệt kê hóa đơn theo ngày, tìm kiếm khách hàng.
@@ -45,13 +45,5 @@ Dự án bao gồm đầy đủ các câu lệnh từ cơ bản đến nâng cao
 4. **Nâng cao:** (Sửa lại theo file báo cáo của bạn)
    - [x] Tạo bảng GIA để tính toán giá trị hóa đơn.
    - [x] Cập nhật doanh số khách hàng tự động.
-
 ---
-
-## 📂 Cách sử dụng
-1. Tải file `QuanLyBanHang.sql` về máy.
-2. Mở bằng SQL Server Management Studio (SSMS).
-3. Nhấn `F5` hoặc `Execute` để chạy toàn bộ kịch bản tạo DB và dữ liệu.
-
----
-📅 *Năm học: 2025 - 2026* 📍 *Hà Nội - UTC*
+ *Năm học: 2025 - 2026* 📍 *Hà Nội - UTC*
